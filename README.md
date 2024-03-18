@@ -1,1 +1,1 @@
-# Example-of-README.m
+# Example-of-README.md
